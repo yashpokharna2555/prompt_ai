@@ -1,5 +1,5 @@
 import '@styles/globals.css';
-import { Children } from 'react';
+import { children } from 'react';
 
 export const metadata = {
     title: "Promptia",
